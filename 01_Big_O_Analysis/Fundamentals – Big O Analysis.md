@@ -1,4 +1,4 @@
-**What is Time Complexity**
+**1. What is Time Complexity**
 
 Time complexity measures how runtime grows with input size.
 
