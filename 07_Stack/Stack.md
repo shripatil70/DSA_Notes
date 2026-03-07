@@ -16,9 +16,11 @@ A stack is a linear data structure that follows the Last-In, First-Out (LIFO) pr
 
 | Operation | Description |
 | --- | --- |
-| Push | Add element |
-| Pop | Remove element |
-| Peek | Top element |
+| Push | Adds a new element to the top of the stack |
+| Pop | Removes and returns the top element from the stack |
+| Peek | Returns the value of the top element without removing it |
+| isEmpty() | Checks if the stack is empty, returning a boolean value |
+| isFull() | Checks if the stack has reached its maximum capacity (relevant for fixed-size implementations) |
 
 ## Example:
 ```python
