@@ -22,5 +22,5 @@ Examples:
 | Binary search | O(log n)   |
 
 
-Interview tip:
+**Interview tip:**
 Always mention time and space complexity after writing code.
