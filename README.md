@@ -25,11 +25,11 @@ Students preparing for:
 - Placement preparation
 
 ## Repository Structure
-DSA_Notes
+dsa_notes/
 │
-├── Arrays
-├── LinkedList
-├── Trees
-├── Graphs
-├── DynamicProgramming
-└── Recursion
+├── Arrays/
+├── LinkedList/
+├── Trees/
+├── Graphs/
+├── DynamicProgramming/
+└── Recursion/
