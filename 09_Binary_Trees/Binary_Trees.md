@@ -4,6 +4,8 @@
 
 A tree where each node has at most two children.
 
+![Binary Tree](https://miro.medium.com/max/1400/1*CMGFtehu01ZEBgzHG71sMg.png)
+
 ```
        10
       /  \
