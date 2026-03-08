@@ -1,27 +1,35 @@
 # DSA_Notes
 This Repo gives all Information about Data Structures and its Types
 
-# Complete DSA Interview Preparation
+# DSA Notes for Coding Interviews 🚀
 
-This repository contains all important Data Structures and Algorithms required for coding interviews.
+This repository contains structured notes and problems for Data Structures and Algorithms used in coding interviews.
 
-Topics Covered
-
-- Big O Analysis
+## Topics Covered
 - Arrays
 - Strings
-- Hashing
 - Linked List
-- Stack
-- Queue
+- Stack & Queue
 - Trees
 - Graphs
-- Greedy Algorithms
-- Backtracking
 - Dynamic Programming
-- Bit Manipulation
-- Sliding Window
-- Trie
-- Segment Tree
+- Greedy Algorithms
 
-Language: Python
+## Languages
+Java / Python / C++
+
+## Who is this for?
+Students preparing for:
+- Coding Interviews
+- FAANG companies
+- Placement preparation
+
+## Repository Structure
+DSA_Notes
+│
+├── Arrays
+├── LinkedList
+├── Trees
+├── Graphs
+├── DynamicProgramming
+└── Recursion
